@@ -1,1 +1,16 @@
+<items>
+    <item>
+        <title>Resumen del Partido: Equipo Local vs. Equipo Visitante</title>
+        <url>https://enlace-a-un-video-de-youtube</url>
+        <icon>https://URL-DE-IMAGEN-DEL-ICONO.png</icon>
+        <fanart>https://URL-DE-IMAGEN-DE-FONDO.jpg</fanart>
+    </item>
 
+    <item>
+        <title>Lo mejor de la jornada</title>
+        <url>https://enlace-a-otro-video-de-youtube</url>
+        <icon>https://URL-DE-IMAGEN-DEL-OTRO-ICONO.png</icon>
+        <fanart>https://URL-DE-OTRA-IMAGEN-DE-FONDO.jpg</fanart>
+    </item>
+
+    </items>
