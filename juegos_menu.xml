@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item>
+        <title>[COLOR magenta]ADIVINA LA CANCIÓN[/COLOR]</title>
+        <info>Solo escucha la música e intenta adivinar. ¡Diversión garantizada!</info>
+        <thumbnail>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/icons/juegos/adivina.jpg</thumbnail>
+        <fanart>https://cdn.jsdelivr.net/gh/GMKTEC/karaokebonny2025@main/fanart/juegos_adivina.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/GMKTEC/karaokebonny2025/main/juegos/adivina.xml</externallink>
+    </item>
+    </items>
