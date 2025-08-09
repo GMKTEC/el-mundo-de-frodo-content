@@ -1,1 +1,23 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.elmundodefrodo"
+       name="The Lord of the Rings: The Fellowship of the Ring | El Señor de los Anillos: La Comunidad del Anillo"
+       version="1.0.0"
+       provider-name="[Aquí pones tu nombre]">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.routing" version="0.2.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="es">Un addon de vídeo con contenido del universo de El Señor de los Anillos.</summary>
+        <description lang="es">Una aventura épica para fans del género de fantasía.
+        </description>
+        <disclaimer lang="es">Este addon tiene un propósito educativo y sin ánimo de lucro.
+        </disclaimer>
+        <platform>all</platform>
+        <forum>https://kodi.tv/forum/forumdisplay.php?fid=229</forum>
+        <source>https://github.com/tu_usuario/mi_repositorio_addon</source>
+    </extension>
+</addon>
