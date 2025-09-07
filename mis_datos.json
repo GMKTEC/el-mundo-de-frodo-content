@@ -1,0 +1,20 @@
+{
+  "peliculas": [
+    {
+      "titulo": "Origen",
+      "año": 2010,
+      "director": "Christopher Nolan",
+      "genero": ["Ciencia Ficción", "Acción"],
+      "sinopsis": "Un ladrón que se especializa en el robo de información a través del uso de tecnología de compartir sueños, es dado una tarea imposible:",
+      "actores": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"]
+    },
+    {
+      "titulo": "Interstellar",
+      "año": 2014,
+      "director": "Christopher Nolan",
+      "genero": ["Ciencia Ficción", "Aventura"],
+      "sinopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+      "actores": ["Matthew McConaughey", "Anne Hathaway"]
+    }
+  ]
+}
