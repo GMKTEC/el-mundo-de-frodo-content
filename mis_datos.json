@@ -6,7 +6,8 @@
       "director": "Christopher Nolan",
       "genero": ["Ciencia Ficción", "Acción"],
       "sinopsis": "Un ladrón que se especializa en el robo de información a través del uso de tecnología de compartir sueños, es dado una tarea imposible:",
-      "actores": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"]
+      "actores": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "url_video": "https://ia800806.us.archive.org/24/items/BigBuckBunny_124/Content/big_buck_bunny_720p_stereo.mp4"
     },
     {
       "titulo": "Interstellar",
@@ -14,7 +15,8 @@
       "director": "Christopher Nolan",
       "genero": ["Ciencia Ficción", "Aventura"],
       "sinopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
-      "actores": ["Matthew McConaughey", "Anne Hathaway"]
+      "actores": ["Matthew McConaughey", "Anne Hathaway"],
+      "url_video": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
     }
   ]
 }
